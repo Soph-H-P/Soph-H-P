@@ -6,13 +6,13 @@
 
 - 👩‍💻 I work as a Software Engineer for <a href="https://curipod.com/">Curipod</a>, a Norwegian ed-tech company building the worlds first curiosity platform.
 - 🥞 Stack: Currently have most experience with React, Typescript, Next.js, Styled-components, Node.js, and always up for learning something new.
-- 🌱 I studied Front-end development at <a href="https://www.noroff.no/en/studies/vocational-school/front-end-development">Noroff</a>
+- 🌱 I studied Front-end development at <a href="https://www.noroff.no/en/studies/vocational-school/front-end-development">Noroff</a> learning both web design and development.
 - 🐘 I also have a BSc in Zoology and MSc in Evolutionary Ecology from Exeter University.
 - 📫 If you want to see more of my work or contact me visit <a href="https://soph-web-dev.eu/">my site</a>
 - 🦸‍♀️ My secret super power: solving code problems while I sleep. Every time I have been really stuck on a problem, I have woken up having dream-solved it. 
 - ⚡ Fun fact: I write crochet patterns, making awesome things in my spare time, like this Bowtruckle!
+<img src="https://user-images.githubusercontent.com/54497081/194096904-3f97909e-b46c-49de-bca2-9a3ad3540973.png" width="200" height="200" align="right" />
 
-<img src="https://user-images.githubusercontent.com/54497081/194061859-c97a6b1c-37e3-4e4c-a5db-03be6dedb230.jpg" width="200" height="200" margin="auto" />
 
 
 ## My stats:
