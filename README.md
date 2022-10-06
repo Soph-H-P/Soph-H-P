@@ -2,7 +2,7 @@
 
 
 
-### Hi there I'm Sophie 👋 
+## Hi there I'm Sophie 👋 
 
  👩‍💻 I work as a Software Engineer for <a href="https://curipod.com/">Curipod</a>, a Norwegian ed-tech company building the worlds first curiosity platform.
  
