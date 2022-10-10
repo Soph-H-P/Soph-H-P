@@ -22,6 +22,6 @@
 
 
 ## My stats:
-[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soph-H-P&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Soph-H-P&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soph-H-P&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
