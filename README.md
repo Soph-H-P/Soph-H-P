@@ -12,7 +12,7 @@
 
 🐘 I also have a BSc in Zoology and MSc in Evolutionary Ecology from Exeter University.
 
-📫 If you want to see more of my work or contact me visit <a href="https://soph-web-dev.eu/">my site</a>
+📫 If you want to see more of my work or contact me visit <a href="https://soph-web-dev.eu/">my site</a>.
 
 🦸‍♀️ My secret super power: solving code problems while I sleep. Every time I have been really stuck on a problem, I have woken up having dream-solved it. 
 
