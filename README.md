@@ -8,11 +8,11 @@
  
  🥞 Stack: Currently have most experience with React, Typescript, Next.js, Styled-components, Node.js, and always up for learning something new.
 
-🌱 I studied Front-end development at <a href="https://www.noroff.no/en/studies/vocational-school/front-end-development">Noroff</a> learning both web design and development.
+🌱 I studied Front-end development - learning both web design and development.
 
 🐘 I also have a BSc in Zoology and MSc in Evolutionary Ecology from Exeter University.
 
-📫 If you want to see more of my work or contact me visit <a href="https://soph-web-dev.eu/">my site</a>.
+📫 If you want to see more of my work or contact me.
 
 🦸‍♀️ My secret super power: solving code problems while I sleep. Every time I have been really stuck on a problem, I have woken up having dream-solved it. 
 
